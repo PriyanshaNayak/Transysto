@@ -4,7 +4,7 @@
 
 # Inspiration :
 
-Because we live in a heavily digitalized world, boosting tranffic and tranction is inherently linked to translating your content into a different language and letting it speak to everyone's needs and wants. This can be easily achieved through content translation.Choosing the right Translation service provider can result in your transaltion penetrating wider markets. Although Google tranlation helps, but it does not provide translation output in a SINGLE language understood by everyone. Therfore, our team has come up with "TRANSYSTO" breaking away the ice of confusion of languages.
+Because we live in a heavily digitalized world, boosting traffic and trasanction is inherently linked to translating your content into a different language and letting it speak to everyone's needs and wants. This can be easily achieved through content translation.Choosing the right Translation service provider can result in your transaltion penetrating wider markets. Although Google tranlation helps, but it does not provide translation output in a SINGLE language understood by everyone. Therfore, our team has come up with "TRANSYSTO" breaking away the ice of confusion of languages.
 
 # What it does :
 
