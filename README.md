@@ -24,8 +24,12 @@ Above everything else, the best feature of our website is that it can be accesse
 The transaltor website we have built is fitted with a Neural Machine model where we take inputs as Odia in English ASCII characters while giving the output in English and vice-versa. Our website is made up of Python , google collab (for writing code) using Html, CSS, JavaScript for the front-end designing part. We have used Machine Learning model for backend dataset. We have an input and output section for the language transaltion. 
 
 # Challenges we ran into :
-It was the first time we tried to make a full-fledged ML working model. We usually made only static websites, but making a dynamic back-end including website was both a little intimidating and challenging for us. The main problem was the large size of dataset required to implement the ML model. We tried hard to replicate the translation of more languages, but due to lack of time and experience, we weren't able to sum up our ideas into our project.
+It was the first time we tried to make a full-fledged ML working model. We usually made only static websites, but making a dynamic back-end including website was both a little intimidating and challenging for us. The main problem was the large size of dataset required to implement the ML model which we had to add manually. We tried hard to replicate the translation of more languages, but due to lack of time and experience, we weren't able to sum up our ideas into our project.
 
 # Accomplishments we are proud of :
+We are glad we could overcome all the challenges and implement all our ideas, but most importantly , we could make something for the social good, for the community, with most of our capability within a short period of time.
+
+# What's next for Transysto :
+We are planning to add more regional languages like so that it can be put to real-time use, as we believe the world needs effective MULTILINGUAL SEM strategies which will benefit lots of different kinds of people.
 
 
