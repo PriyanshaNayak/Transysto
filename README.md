@@ -20,4 +20,4 @@ Transysto provides a critical cultural and economic bridge between people from d
 To meet these needs, translation applications from Google and Microsoft can translate over 100 different languages but none of them provide the output in a "signle" globally understood language, which Transysto will be able to do using the Neural machine model. 
 Above everything else, the best feature of our website is that it can be accessed by everyone, from a kid to old, rich to poor, a person sitting at home to a working-class official.
 
-###### 
+###### How we built it :
