@@ -23,3 +23,9 @@ Above everything else, the best feature of our website is that it can be accesse
 # How we built it :
 The transaltor website we have built is fitted with a Neural Machine model where we take inputs as Odia in English ASCII characters while giving the output in English and vice-versa. Our website is made up of Python , google collab (for writing code) using Html, CSS, JavaScript for the front-end designing part. We have used Machine Learning model for backend dataset. We have an input and output section for the language transaltion. 
 
+# Challenges we ran into :
+It was the first time we tried to make a full-fledged ML working model. We usually made only static websites, but making a dynamic back-end including website was both a little intimidating and challenging for us. The main problem was the large size of dataset required to implement the ML model. We tried hard to replicate the translation of more languages, but due to lack of time and experience, we weren't able to sum up our ideas into our project.
+
+# Accomplishments we are proud of :
+
+
