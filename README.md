@@ -3,12 +3,10 @@
 # To be continued
 
 # Inspiration :
-
-Because we live in a heavily digitalized world, boosting traffic and trasanction is inherently linked to translating your content into a different language and letting it speak to everyone's needs and wants. This can be easily achieved through content translation.Choosing the right Translation service provider can result in your transaltion penetrating wider markets. Although Google tranlation helps, but it does not provide translation output in a SINGLE language understood by everyone. Therfore, our team has come up with "TRANSYSTO" breaking away the ice of confusion of languages.
+Because we live in a heavily digitalized world, boosting traffic and transaction is inherently linked to translating your content into a different language and letting it speak to everyone's needs and wants. This can be easily achieved through content translation. Choosing the right Translation service provider can result in your translation penetrating wider markets. Although Google translation helps, but it does not provide translation output in a SINGLE language understood by everyone. Therfore, our team has come up with "TRANSYSTO" breaking away the ice of confusion of languages.
 
 # What it does :
-
-Transysto is a widget that is literally for the people as well as by the people.It is a user-friendly platform where you can your put your statement or query in English and it gives the output in Odia as well as Hindi just like Google translator. But, the catch here is that it displays the sentence in English itself therefore being understandable and readable by everyone irrespective of their native language. The bottom line is that, High-quality and accurate trilingual language conversions are the keys for success for brands seeking out to branch out and speak nationally. 
+Transysto is a widget that is literally for the people as well as by the people.It is a user-friendly platform where you can your put your statement or query in English and it gives the output in Odia just like Google translator. But, the catch here is that it displays the sentence in English characters itself therefore being understandable and readable by everyone irrespective of their native language. The bottom line is that, High-quality and accurate trilingual language conversions are the keys for success for brands seeking out to branch out and speak nationally. 
 
 # Advantages :
 Transysto provides a critical cultural and economic bridge between people from different regions with Odisha. Some of the more obvious use-cases include :
