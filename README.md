@@ -17,8 +17,9 @@ Transysto provides a critical cultural and economic bridge between people from d
 3. Media - accessing information via search, sharing information via social netwroks, localization of content and advertising
 4. Education - sharing of ideas, collaboration, transaltion of research papers.
 
-To meet these needs, translation applications from Google and Microsoft can translate over 100 different languages but none of them provide the output in a "signle" globally understood language, which Transysto will be able to do using the Neural machine model. 
+To meet these needs, translation applications from Google and Microsoft can translate over 100 different languages but none of them provide the output in a "single" globally understood language, which Transysto will be able to do using the Neural machine model. 
 Above everything else, the best feature of our website is that it can be accessed by everyone, from a kid to old, rich to poor, a person sitting at home to a working-class official.
 
 # How we built it :
+The transaltor website we have built is fitted with a Neural Machine model where we take inputs as Odia in English ASCII characters while giving the output in English and vice-versa. Our website is made up of Python , google collab (for writing code) using Html, CSS, JavaScript for the front-end designing part. We have used Machine Learning model for backend dataset. We have an input and output section for the language transaltion. 
 
