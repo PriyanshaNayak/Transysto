@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding:0 ;
+    font-family: 'Montserrat', sans-serif;
+
+}
+   body{
+       position: relative;
+   }
+
+    body::before{
+     content: '';
+     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WhWUOq_F-ZJJajnhrfAvUir4x-jJBJUvTg&usqp=CAU);
+     background-size: cover;
+     background-position: top center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      position: absolute;
+    top:0px;
+    right:0px;
+    bottom: 0px;
+    left:0px;
+    opacity:0.5;
+}
+   .title{
+       font-size: 50px;
+       font-weight: 80px;
+       color:white;
+       font-style: bold;
+       text-align:center;
+   }
+   .tagline{
+       font-size: 20px;
+       font-weight: 100px;
+       font-family: serif;
+       color: #fbb03b;
+       text-align: center;
+   }
+   .flex-container {
+    display: flex;
+    position: relative;
+
+}
+
+.flex-child {
+    flex: 1;
+    padding-top: 50px;
+}  
+
+.flex-child:first-child {
+    
+    padding:200px;
+    padding-left: 150px;
+    size: 500px;
+} 
+.left{
+    display: block;
+    position: relative;
+}
+.left::after{
+    content: '';
+    background-color:rgb(248, 7, 7);
+    position: absolute;
+    top:0px;
+    right:0px;
+    bottom: 0px;
+    left:0px;
+    opacity:0.9;
+    z-index:-1;
+}
+.right{
+    position: relative;
+}
+.right::after{
+    content: '';
+    background-color:orange;
+    position: absolute;
+    top:0px;
+    right:0px;
+    bottom: 0px;
+    left:0px;
+    opacity:0.9;
+    z-index:-1;
+}
+
+.about{
+min-height: 800px;
+}
+.ah1{
+    padding-right: 10px;
+    text-align: right;
+    font-size: 16px;
+    color: white;
+}
+.ah3{
+    text-align: left;
+    padding-top: 300px;
+    padding-left: 100px;
+    color: rgb(239, 255, 19);
+}
+#text{
+    height:80px;
+    width: 300px;
+    font-size:10pt;
+    background-color: white;
+}
+.box1{
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.box2{
+    padding-top: 20px;
+    padding-left:80px;
+}
+.submit{
+    padding-top: 20px;
+    padding-left:180px;
+    
+}
+#language{
+    background-color: rgb(255, 190, 49);
+    padding-left:20px;
+    color:white;
+    font-size: 16px;
+}
+#submit{
+    background-color:rgb(255, 190, 49) ;
+    color:white;
+    font-size: 20px;
+}
