@@ -19,7 +19,7 @@ To meet these needs, translation applications from Google and Microsoft can tran
 Above everything else, the best feature of our website is that it can be accessed by everyone, from a kid to old, rich to poor, a person sitting at home to a working-class official.
 
 ## How we built it :
-The translator website we have built is fitted with a Neural Machine model where we take inputs as Odia in English ASCII characters while giving the output in English and vice-versa. Our website is made up of Python , google collab (for writing code) using Html, CSS, JavaScript for the front-end designing part. We have used the Machine Learning model for the backend dataset. We have an input and output section for the language translation. 
+The translator website we have built is fitted with a Neural Machine model where we take inputs as Odia in English ASCII characters while giving the output in English and vice-versa. Our website is made up of Python ,google collab (for writing code) using Html, CSS, JavaScript for the front-end designing part. We have used the Machine Learning model for the backend dataset. We have an input and output section for the language translation. 
 
 ## Challenges we ran into :
 It was the first time we tried to make a full-fledged ML working model. We usually made only static websites, but making a dynamic back-end including website was both a little intimidating and challenging for us. The main problem was the large size of dataset required to implement the ML model which we had to add manually. We tried hard to replicate the translation of more languages, but due to lack of time and experience, we weren't able to sum up our ideas into our project.
