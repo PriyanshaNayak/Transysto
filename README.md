@@ -28,4 +28,4 @@ It was the first time we tried to make a full-fledged ML working model. We usual
 We are glad we could overcome all the challenges and implement all our ideas, but most importantly , we could make something for the social good, for the community, with most of our capability within a short period of time.
 
 ## What's next for Transysto :
-We are planning to add more regional languages like Bengali, Marathi etc. so that it can be put to real-time use, as we believe the world needs effective MULTILINGUAL SEM strategies which will benefit lots of different kinds of people.
+We are planning to add more regional languages like Bengali, Marathi etc. so that it can be put to real-time use, as we believe the world needs effective MULTILINGUAL SEM strategies which will benefit lots of different kinds of people. 
